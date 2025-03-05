@@ -39,7 +39,7 @@ with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
     httpd.serve_forever()
 ```
 # OUTPUT:
-![alt text](image-1.png)
+![alt text](<exp 1-1.png>)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
